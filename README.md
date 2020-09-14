@@ -4,7 +4,7 @@
 
 ## Algumas organizações para você ficar de olho :eyes:
 
-// TODO
+Repositórios/organizações onde a curva de aprendizado é menor e não se é necessário uma mentoria para uma contribuição.
 
 ## Mentoria em projetos
 
@@ -26,3 +26,7 @@ Existem empresas que sua colaboração conta como participação tanto para o ev
 
 **[NodeJS](https://github.com/nodejs/node)**
  - [Rafael Gonzaga](@rafaelgss) - [Agende aqui](https://calendly.com/rafaelgss/30min)
+
+---
+
+_Lembrando: Contribuir com esse documento, também é uma forma bacana de contribuir com o Open Source :heart:_
