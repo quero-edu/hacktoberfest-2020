@@ -10,6 +10,13 @@
 
 // Introdução a mentorias com uma curva de aprendizado maior
 
+## Empresas com seu próprio Hacktoberfest
+
+Existem empresas que sua colaboração conta como participação tanto para o evento da Digital Ocean, quanto para o evento próprio dessa empresa (que também disponibiliza brindes), como:
+
+**[Globo](https://opensource.globo.com/hacktoberfest/)**
+[Acesse o repositório](https://github.com/globocom)
+
 ### NodeJS
 
 > _Quer mentorar ou ajudar de alguma forma? verifique [CONTRIBUITORS.md](./CONTRIBUITORS.md)_
