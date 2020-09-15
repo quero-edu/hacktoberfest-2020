@@ -35,6 +35,12 @@ A lista de projetos e as pessoas associadas a ele você pode conferir abaixo:
 **[NodeJS](https://github.com/nodejs/node)**
  - [Rafael Gonzaga](@rafaelgss) - [Agende aqui](https://calendly.com/rafaelgss/30min)
 
+## Mentoria em Linguagens/Frameworks
+
+### Javascript
+
+- [Aderbal Filho](@AderbalFilho) - [Agende aqui](https://calendly.com/aderbalfilho/30min)
+
 ---
 
 _Lembrando: Contribuir com esse documento, também é uma forma bacana de contribuir com o Open Source :heart:_
