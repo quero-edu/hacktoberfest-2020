@@ -14,8 +14,9 @@ Repositórios/organizações onde a curva de aprendizado é menor e não se é n
 
 Existem empresas que sua colaboração conta como participação tanto para o evento da Digital Ocean, quanto para o evento próprio dessa empresa (que também disponibiliza brindes), como:
 
-**[Globo.com](https://opensource.globo.com/hacktoberfest/)**
-- [Acesse o repositório](https://github.com/globocom)
+- **[Globo.com](https://opensource.globo.com/hacktoberfest/)**
+- **[CircleCI](https://hacktoberfest.circleci.com/)**
+
 
 ## Mentoria em projetos
 
