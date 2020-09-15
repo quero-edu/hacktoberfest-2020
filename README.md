@@ -36,7 +36,7 @@ A lista de projetos e as pessoas associadas a ele você pode conferir abaixo:
 **[NodeJS](https://github.com/nodejs/node)**
  - [Rafael Gonzaga](@rafaelgss) - [Agende aqui](https://calendly.com/rafaelgss/30min)
 
-**[Javascript]**
+**Javascript**
 - [Aderbal Filho](@AderbalFilho) - [Agende aqui](https://calendly.com/aderbalfilho/30min)
 
 ---
