@@ -34,3 +34,5 @@ A lista de projetos e as pessoas associadas a ele você pode conferir abaixo:
 ---
 
 _Lembrando: Contribuir com esse documento, também é uma forma bacana de contribuir com o Open Source :heart:_
+
+_Obs.: Dada as novas políticas vigentes desde o hacktoberfest de 2019, seu PR aqui pode não contar como um válido para o evento (em caso de dúvidas, [leia algumas dicas de PR do hacktoberfest](https://hacktoberfest.digitalocean.com/details/#quality)). Recomendamos que, mesmo que funcione, faça um a mais em projetos com maior significância ao Open Source, como os acima citados._
