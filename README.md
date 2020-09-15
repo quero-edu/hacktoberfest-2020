@@ -6,12 +6,12 @@
 
 Repositórios/organizações onde a curva de aprendizado é menor e não se é necessário uma mentoria para uma contribuição.
 
-## Empresas com seu próprio Hacktoberfest
+## Empresas com seu próprio Hacktoberfest (Hacktoberfest 2020 swag list)
 
 Existem empresas que sua colaboração conta como participação tanto para o evento da Digital Ocean, quanto para o evento próprio dessa empresa (que também disponibiliza brindes), como:
 
 **[Globo.com](https://opensource.globo.com/hacktoberfest/)**
-[Acesse o repositório](https://github.com/globocom)
+- [Acesse o repositório](https://github.com/globocom)
 
 ## Mentoria em projetos
 
