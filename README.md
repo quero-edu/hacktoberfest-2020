@@ -22,13 +22,13 @@ Existem empresas que sua colaboração conta como participação tanto para o ev
 
 Alguns projetos tem um escopo maior e consequentemente a curva de aprendizado é vertical. Com isso, algumas pessoas desenvolvedoras estão com o [calendly](https://calendly.com/pt) aberto para **conversas** de 30 minutos.
 
-Essas conversas podem ser sobre programação no geral, dúvidas sobre projetos open-source, tendo como objetivo criar seu primeiro PR no projeto X! :tada:
+Essas conversas podem ser sobre programação no geral ou dúvidas sobre projetos open-source, tendo como objetivo criar seu primeiro PR(Pull Request) no projeto X! :tada:
 
 A lista de projetos e as pessoas associadas a ele você pode conferir abaixo:
 
 > _Quer mentorar ou ajudar de alguma forma? verifique [CONTRIBUITORS.md](./CONTRIBUITORS.md)_
 
-### NodeJS
+### Lista
 
 **[Fastify](https://github.com/fastify/fastify)**
  - [Rafael Gonzaga](@rafaelgss) - [Agende aqui](https://calendly.com/rafaelgss/30min)
@@ -36,10 +36,7 @@ A lista de projetos e as pessoas associadas a ele você pode conferir abaixo:
 **[NodeJS](https://github.com/nodejs/node)**
  - [Rafael Gonzaga](@rafaelgss) - [Agende aqui](https://calendly.com/rafaelgss/30min)
 
-## Mentoria em Linguagens/Frameworks
-
-### Javascript
-
+**[Javascript]**
 - [Aderbal Filho](@AderbalFilho) - [Agende aqui](https://calendly.com/aderbalfilho/30min)
 
 ---
