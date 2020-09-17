@@ -6,9 +6,9 @@ Participando do evento, você ajuda no crescimento de projetos open source e apr
 
 Com o objetivo de facilitar o acesso aos participantes do evento (sejam da nossa empresa ou não), a Quero Educação criou este repositório para centralizar as informações e disponibilizar mentoria a outros participantes.
 
-## Algumas organizações para você ficar de olho :eyes:
+## Dicas e Artigos sobre como contribuir com o Open Source
 
-Repositórios/organizações onde a curva de aprendizado é menor e não se é necessário uma mentoria para uma contribuição.
+// TODO
 
 ## Empresas com seu próprio Hacktoberfest (Hacktoberfest 2020 swag list)
 
@@ -16,6 +16,7 @@ Existem empresas que sua colaboração conta como participação tanto para o ev
 
 - **[Globo.com](https://opensource.globo.com/hacktoberfest/)**
 - **[CircleCI](https://hacktoberfest.circleci.com/)**
+- **[Github com lista de projetos internacionais](https://github.com/crweiner/hacktoberfest-swag-list)**
 
 
 ## Mentoria em projetos
