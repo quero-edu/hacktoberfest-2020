@@ -38,7 +38,11 @@ A lista de projetos e as pessoas associadas a ele você pode conferir abaixo:
  - [Rafael Gonzaga](@rafaelgss) - [Agende aqui](https://calendly.com/rafaelgss/30min)
 
 **Javascript**
-- [Aderbal Filho](@AderbalFilho) - [Agende aqui](https://calendly.com/aderbalfilho/30min)
+ - [Aderbal Filho](@AderbalFilho) - [Agende aqui](https://calendly.com/aderbalfilho/30min)
+ - [Pedro Costa](@plcosta) - [Agende aqui](https://calendly.com/pedro-costa-quero/30min) - Vue.js - React - Gatsby
+
+**Ruby / Rails**
+ - [Pedro Costa](@plcosta) - [Agende aqui](https://calendly.com/pedro-costa-quero/30min)
 
 ---
 
