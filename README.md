@@ -32,17 +32,17 @@ A lista de projetos e as pessoas associadas a ele você pode conferir abaixo:
 ### Lista
 
 **[Fastify](https://github.com/fastify/fastify)**
- - [Rafael Gonzaga](@rafaelgss) - [Agende aqui](https://calendly.com/rafaelgss/30min)
+ - [Rafael Gonzaga](https://github.com/rafaelgss) - [Agende aqui](https://calendly.com/rafaelgss/30min)
 
 **[NodeJS](https://github.com/nodejs/node)**
- - [Rafael Gonzaga](@rafaelgss) - [Agende aqui](https://calendly.com/rafaelgss/30min)
+ - [Rafael Gonzaga](https://github.com/rafaelgss) - [Agende aqui](https://calendly.com/rafaelgss/30min)
 
 **Javascript**
- - [Aderbal Filho](@AderbalFilho) - [Agende aqui](https://calendly.com/aderbalfilho/30min)
- - [Pedro Costa](@plcosta) - [Agende aqui](https://calendly.com/pedro-costa-quero/30min) - Vue.js - React - Gatsby
+ - [Aderbal Filho](https://github.com/AderbalFilho) - [Agende aqui](https://calendly.com/aderbalfilho/30min)
+ - [Pedro Costa](https://github.com/plcosta) - [Agende aqui](https://calendly.com/pedro-costa-quero/30min) - Vue.js - React - Gatsby
 
 **Ruby / Rails**
- - [Pedro Costa](@plcosta) - [Agende aqui](https://calendly.com/pedro-costa-quero/30min)
+ - [Pedro Costa](https://github.com/plcosta) - [Agende aqui](https://calendly.com/pedro-costa-quero/30min)
 
 ---
 
