@@ -27,7 +27,7 @@ Essas conversas podem ser sobre programação no geral ou dúvidas sobre projeto
 
 A lista de projetos e as pessoas associadas a ele você pode conferir abaixo:
 
-> _Quer mentorar ou ajudar de alguma forma? verifique [CONTRIBUITORS.md](./CONTRIBUITORS.md)_
+> _Quer mentorar ou ajudar de alguma forma? Abra um PR, ficaremos felizes em revisar_
 
 ### Lista
 
