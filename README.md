@@ -42,16 +42,13 @@ A lista de projetos e as pessoas associadas a ele você pode conferir abaixo:
 **Javascript**
  - [Aderbal Filho](https://github.com/AderbalFilho) - [Agende aqui](https://calendly.com/aderbalfilho/30min)
  - [Pedro Costa](https://github.com/plcosta) - [Agende aqui](https://calendly.com/pedro-costa-quero/30min) - Vue.js - React - Gatsby
- - [Vinícius Hoyer](https://github.com/vhoyer) - [Agende aqui](https://calendly.com/vhoyer/30min) - Vue.js - Nuxt.js - eslint
+ - [Vinícius Hoyer](https://github.com/vhoyer) - [Agende aqui](https://calendly.com/vhoyer/30min) - Vue.js - Nuxt.js - eslint - regex
 
 **Ruby / Rails**
  - [Pedro Costa](https://github.com/plcosta) - [Agende aqui](https://calendly.com/pedro-costa-quero/30min)
  
 **Relacionados a Vim**
- - [Vinícius Hoyer](https://github.com/vhoyer) - [Agende aqui](https://calendly.com/vhoyer/30min) - vimscript
- 
-**Regex**
- - [Vinícius Hoyer](https://github.com/vhoyer) - [Agende aqui](https://calendly.com/vhoyer/30min)
+ - [Vinícius Hoyer](https://github.com/vhoyer) - [Agende aqui](https://calendly.com/vhoyer/30min) - vimscript - regex
 
 ---
 
