@@ -2,13 +2,13 @@
 
 Durante o mês de outubro, o Hacktoberfest convida a todos para contribuir para esta comunidade global. Todos os backgrounds e níveis de habilidade em desenvolvimento de projetos open source são bem-vindos. 
 
-Participando do evento, você ajuda no crescimento de projetos open source e aprende com a mentoria de contribuidores de longa data. E mais: se você concluir o desafio do evento, você pode ganhar a edição limitada da camiseta do Hacktoberfest de 2020.
+Participando do evento, você ajuda no crescimento de projetos open source e aprende com a mentoria de contribuidores de longa data. E mais: se você concluir o desafio do evento, você pode ganhar a edição limitada da camiseta do Hacktoberfest de 2020 (ou plantar uma árvore!!).
 
 Com o objetivo de facilitar o acesso aos participantes do evento (sejam da nossa empresa ou não), a Quero Educação criou este repositório para centralizar as informações e disponibilizar mentoria a outros participantes.
 
 ## Dicas e Artigos sobre como contribuir com o Open Source
 
-// TODO
+- Procure por tags `"good first issue"` nos repositórios públicos, essas são issues que os projetos marcaram como uma boa entrada ao projeto pelo nível de díficuldade de entrada dela, geralmente exigindo menos conhecimento prévio sobre o projeto, é um bom primeiro passo :muscle: outras tags legais pra procurar são: `"help-wanted"`, `"documentation"` e `"contributions welcome"`, porém essas podem não ser tão simples :smile:;
 
 ## Empresas com seu próprio Hacktoberfest (Hacktoberfest 2020 swag list)
 
@@ -40,9 +40,13 @@ A lista de projetos e as pessoas associadas a ele você pode conferir abaixo:
 **Javascript**
  - [Aderbal Filho](https://github.com/AderbalFilho) - [Agende aqui](https://calendly.com/aderbalfilho/30min)
  - [Pedro Costa](https://github.com/plcosta) - [Agende aqui](https://calendly.com/pedro-costa-quero/30min) - Vue.js - React - Gatsby
+ - [Vinícius Hoyer](https://github.com/vhoyer) - [Agende aqui](https://calendly.com/vhoyer/30min) - Vue.js - Nuxt.js - eslint - regex
 
 **Ruby / Rails**
  - [Pedro Costa](https://github.com/plcosta) - [Agende aqui](https://calendly.com/pedro-costa-quero/30min)
+ 
+**Relacionados a Vim**
+ - [Vinícius Hoyer](https://github.com/vhoyer) - [Agende aqui](https://calendly.com/vhoyer/30min) - vimscript - regex
 
 ---
 
