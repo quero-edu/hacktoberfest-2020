@@ -8,9 +8,7 @@ Com o objetivo de facilitar o acesso aos participantes do evento (sejam da nossa
 
 ## Dicas e Artigos sobre como contribuir com o Open Source
 
-- Procure por tags `"good first issue"` nos repositórios públicos, essas são issues que os projetos marcaram como uma boa entrada ao projeto pelo nível de díficuldade de entrada dela, geralmente exigindo menos conhecimento prévio sobre o projeto, é um bom primeiro passo :muscle: outras tags legais pra procurar são: `"help-wanted"`, `"documentation"` e `"contributions welcome"`, porém essas duas ultimas podem não ser tão simples :smile:;
-
-// TODO
+- Procure por tags `"good first issue"` nos repositórios públicos, essas são issues que os projetos marcaram como uma boa entrada ao projeto pelo nível de díficuldade de entrada dela, geralmente exigindo menos conhecimento prévio sobre o projeto, é um bom primeiro passo :muscle: outras tags legais pra procurar são: `"help-wanted"`, `"documentation"` e `"contributions welcome"`, porém essas duas últimas podem não ser tão simples :smile:;
 
 ## Empresas com seu próprio Hacktoberfest (Hacktoberfest 2020 swag list)
 
