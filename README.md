@@ -2,7 +2,7 @@
 
 Durante o mês de outubro, o Hacktoberfest convida a todos para contribuir para esta comunidade global. Todos os backgrounds e níveis de habilidade em desenvolvimento de projetos open source são bem-vindos. 
 
-Participando do evento, você ajuda no crescimento de projetos open source e aprende com a mentoria de contribuidores de longa data. E mais: se você concluir o desafio do evento, você pode ganhar a edição limitada da camiseta do Hacktoberfest de 2020.
+Participando do evento, você ajuda no crescimento de projetos open source e aprende com a mentoria de contribuidores de longa data. E mais: se você concluir o desafio do evento, você pode ganhar a edição limitada da camiseta do Hacktoberfest de 2020 (ou plantar uma árvore!!).
 
 Com o objetivo de facilitar o acesso aos participantes do evento (sejam da nossa empresa ou não), a Quero Educação criou este repositório para centralizar as informações e disponibilizar mentoria a outros participantes.
 
