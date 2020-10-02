@@ -9,7 +9,7 @@ Com o objetivo de facilitar o acesso aos participantes do evento (sejam da nossa
 ## Dicas e Artigos sobre como contribuir com o Open Source
 
 - Procure por tags `"good first issue"` nos repositórios públicos, essas são issues que os projetos marcaram como uma boa entrada ao projeto pelo nível de díficuldade de entrada dela, geralmente exigindo menos conhecimento prévio sobre o projeto, é um bom primeiro passo :muscle: outras tags legais pra procurar são: `"help-wanted"`, `"documentation"` e `"contributions welcome"`, porém essas podem não ser tão simples :smile:;
-- Use a [pesquisa avançada do Github](https://github.com/search/advanced) ao seu favor e filtre pelas opções como as tags `"hacktoberfest"` e `"good first issue"` ao mesmo tempo como [nesse link](https://github.com/search?q=label%3Ahacktoberfest+label%3A%22good+first+issue%22+state%3Aopen&type=Issues&ref=advsearch&l=&l=);
+- Use a [pesquisa avançada do Github](https://github.com/search/advanced) a seu favor e filtre pelas opções como as tags `"hacktoberfest"` e `"good first issue"` ao mesmo tempo como [nesse link](https://github.com/search?q=label%3Ahacktoberfest+label%3A%22good+first+issue%22+state%3Aopen&type=Issues&ref=advsearch&l=&l=);
 - Veja o material que a Digital Ocean separou e enviou por e-mail em setembro (em inglês):
   - [Como criar seu primeiro pull request](https://www.youtube.com/watch?v=jZtECuvNRiw&list=PLseEp7p6EwiZgLPknY4ITJxfoo75wqxph&index=7);
   - [Entendendo o GitHub flow](https://guides.github.com/introduction/flow);
