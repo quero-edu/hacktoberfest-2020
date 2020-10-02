@@ -9,6 +9,8 @@ Com o objetivo de facilitar o acesso aos participantes do evento (sejam da nossa
 ## Dicas e Artigos sobre como contribuir com o Open Source
 
 - Procure por tags `"good first issue"` nos repositórios públicos, essas são issues que os projetos marcaram como uma boa entrada ao projeto pelo nível de díficuldade de entrada dela, geralmente exigindo menos conhecimento prévio sobre o projeto, é um bom primeiro passo :muscle: outras tags legais pra procurar são: `"help-wanted"`, `"documentation"` e `"contributions welcome"`, porém essas podem não ser tão simples :smile:;
+- **Indicação de organizações e projetos:**
+  - [Ruby for Good](https://rubyforgood.org/) é um evento que junta devs para fazer projetos que ajudem a sociedade, existem varias issues abertas dos projetos gerados nos eventos. Além de contribuir com o Open Source você vai estar ajudando comunidades do mundo todo utilizando Ruby. Esse é o perfil deles no GitHub https://github.com/rubyforgood;
 
 ## Empresas com seu próprio Hacktoberfest (Hacktoberfest 2020 swag list)
 
@@ -17,7 +19,6 @@ Existem empresas que sua colaboração conta como participação tanto para o ev
 - **[Globo.com](https://opensource.globo.com/hacktoberfest/)**
 - **[CircleCI](https://hacktoberfest.circleci.com/)**
 - **[Github com lista de projetos internacionais](https://github.com/crweiner/hacktoberfest-swag-list)**
-
 
 ## Mentoria em projetos
 
