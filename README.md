@@ -16,7 +16,7 @@ Com o objetivo de facilitar o acesso aos participantes do evento (sejam da nossa
   - [Uma introdução ao Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source);
   - [Dicas de Github para contribuir no open source e manutenção de projetos](https://www.youtube.com/watch?v=vSdSFxIKy5w&feature=youtu.be);
   - [Entre no canal do Discord](https://discord.com/invite/hacktoberfest).
-- Se você escolheu uma issue que você quer trabalhar, mas não sabe por onde começar, pedir ajuda sobre por onde você começar a estudar sobre o assunto é uma ótima opção :smile:
+- Escolheu uma issue que você quer trabalhar, mas não sabe por onde começar? Pedir ajuda é uma ótima opção para te encaminhar na direção certa :smile:
 
 ## Empresas com seu próprio Hacktoberfest (Hacktoberfest 2020 swag list)
 
