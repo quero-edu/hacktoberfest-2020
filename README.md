@@ -18,7 +18,7 @@ Com o objetivo de facilitar o acesso aos participantes do evento (sejam da nossa
   - [Entre no canal do Discord](https://discord.com/invite/hacktoberfest).
 - Escolheu uma issue que você quer trabalhar, mas não sabe por onde começar? Pedir ajuda é uma ótima opção para te encaminhar na direção certa :smile:
 - **Indicação de organizações e projetos:**
-  - [Ruby for Good](https://rubyforgood.org/) é um evento que junta devs para fazer projetos que ajudam a sociedade, existem varias issues abertas dos projetos gerados nos eventos. Além de contribuir com o Open Source você vai estar ajudando comunidades do mundo todo utilizando Ruby. Esse é o perfil deles no GitHub https://github.com/rubyforgood;
+  - [Ruby for Good](https://rubyforgood.org/) é um evento que junta devs para fazer projetos que ajudam a sociedade, existem várias issues abertas dos projetos gerados nos eventos. Além de contribuir com o Open Source você vai estar ajudando comunidades do mundo todo utilizando Ruby. Esse é o perfil deles no GitHub: https://github.com/rubyforgood;
 
 ## Empresas com seu próprio Hacktoberfest (Hacktoberfest 2020 swag list)
 
