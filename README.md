@@ -6,7 +6,7 @@ Participando do evento, você ajuda no crescimento de projetos open source e apr
 
 Com o objetivo de facilitar o acesso aos participantes do evento (sejam da nossa empresa ou não), a Quero Educação criou este repositório para centralizar as informações e disponibilizar mentoria a outros participantes.
 
-## Dicas e Artigos sobre como contribuir com o Open Source
+## Dicas para contribuir com o open-source
 
 - Procure por tags `"good first issue"` nos repositórios públicos, essas são issues que os projetos marcaram como uma boa entrada ao projeto pelo nível de díficuldade de entrada dela, geralmente exigindo menos conhecimento prévio sobre o projeto, é um bom primeiro passo :muscle: outras tags legais pra procurar são: `"help-wanted"`, `"documentation"` e `"contributions welcome"`, porém essas podem não ser tão simples :smile:;
 - Use a [pesquisa avançada do Github](https://github.com/search/advanced) a seu favor e filtre pelas opções como as tags `"hacktoberfest"` e `"good first issue"` ao mesmo tempo como [nesse link](https://github.com/search?q=label%3Ahacktoberfest+label%3A%22good+first+issue%22+state%3Aopen&type=Issues&ref=advsearch&l=&l=);
@@ -17,6 +17,8 @@ Com o objetivo de facilitar o acesso aos participantes do evento (sejam da nossa
   - [Dicas de Github para contribuir no open source e manutenção de projetos](https://www.youtube.com/watch?v=vSdSFxIKy5w&feature=youtu.be);
   - [Entre no canal do Discord](https://discord.com/invite/hacktoberfest).
 - Escolheu uma issue que você quer trabalhar, mas não sabe por onde começar? Pedir ajuda é uma ótima opção para te encaminhar na direção certa :smile:
+- **Indicação de organizações e projetos:**
+  - [Ruby for Good](https://rubyforgood.org/) é um evento que junta devs para fazer projetos que ajudam a sociedade, existem várias issues abertas dos projetos gerados nos eventos. Além de contribuir com o Open Source você vai estar ajudando comunidades do mundo todo utilizando Ruby. Esse é o perfil deles no GitHub: https://github.com/rubyforgood;
 
 ## Empresas com seu próprio Hacktoberfest (Hacktoberfest 2020 swag list)
 
@@ -25,7 +27,6 @@ Existem empresas que sua colaboração conta como participação tanto para o ev
 - **[Globo.com](https://opensource.globo.com/hacktoberfest/)**
 - **[CircleCI](https://hacktoberfest.circleci.com/)**
 - **[Github com lista de projetos internacionais](https://github.com/crweiner/hacktoberfest-swag-list)**
-
 
 ## Mentoria em projetos
 
